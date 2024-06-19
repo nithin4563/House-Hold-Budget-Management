@@ -1,0 +1,6 @@
+Name: John
+Savings Goal: 20%
+Income: 5000
+Expenses: 2150
+Savings: 2850
+Actual Savings Percentage: 57.00%
